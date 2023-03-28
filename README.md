@@ -12,6 +12,8 @@ The REST endpoint supports the following operations:
 - `PUT /dogs/{id}`: Updates an existing dog.
 - `DELETE /dogs/{id}`: Deletes a dog.
 
+[Imgur](https://i.imgur.com/Wic6E0H.png)
+
 ## Eureka server
 
 This microservice registers itself with a localhost Eureka server. The Eureka server can be accessed at `http://localhost:8761`.
