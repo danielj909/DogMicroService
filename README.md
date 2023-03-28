@@ -1,6 +1,6 @@
 # Microservice for Dog REST endpoint
 
-This microservice provides a REST endpoint for dogs and registers itself with a localhost Eureka server. The application is built using Spring Boot, Spring Data REST, Spring Cloud, and an H2 database.
+This simple microservice provides a REST endpoint for dogs and registers itself with a localhost Eureka server. The application is built using Spring Boot, Spring Data REST, Spring Cloud, and an H2 database.
 
 ## REST endpoints
 
