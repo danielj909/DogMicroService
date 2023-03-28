@@ -12,8 +12,6 @@ The REST endpoint supports the following operations:
 - `PUT /dogs/{id}`: Updates an existing dog.
 - `DELETE /dogs/{id}`: Deletes a dog.
 
-[Imgur](https://i.imgur.com/Wic6E0H.png)
-
 ## Eureka server
 
 This microservice registers itself with a localhost Eureka server. The Eureka server can be accessed at `http://localhost:8761`.
@@ -21,3 +19,7 @@ This microservice registers itself with a localhost Eureka server. The Eureka se
 ## H2 database
 
 This microservice uses an H2 database, which is an in-memory database. This means that any data you add to the database will be lost when you restart the application. If you want to persist data, you will need to configure the application to use a different database.
+
+
+![Imgur](https://i.imgur.com/Wic6E0H.png)
+
