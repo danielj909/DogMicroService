@@ -23,3 +23,10 @@ This microservice uses an H2 database, which is an in-memory database. This mean
 
 ![Imgur](https://i.imgur.com/Wic6E0H.png)
 
+## Swagger UI
+
+The Swagger UI is a web-based tool that allows you to interact with the API documentation. You can access the Swagger UI by opening the following URL in the web broswer (Microservice on port 8762):
+
+    http://localhost:8762/swagger-ui.html
+
+![Imgur](https://i.imgur.com/SWDGJ8x.png)
